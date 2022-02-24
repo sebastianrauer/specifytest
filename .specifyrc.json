@@ -1,5 +1,5 @@
 {
-  "repository": "@owner/repositoryName",
+  "repository": "@sebastianrauer/specifytest",
   "head": "specify",
   "rules": [
     {
